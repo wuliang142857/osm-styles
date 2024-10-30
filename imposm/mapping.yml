@@ -128,109 +128,25 @@ tables:
     type_mappings:
         points:
             aeroway:
-            - helipad
-            - aerodrome
+            - __any__
             tourism:
-            - artwork
-            - alpine_hut
-            - camp_site
-            - caravan_site
-            - chalet
-            - wilderness_hut
-            - guest_house
-            - hostel
-            - hotel
-            - motel
-            - information
-            - museum
-            - viewpoint
-            - picnic_site
+            - __any__
             amenity:
-            - shelter
-            - atm
-            - bank
-            - bar
-            - bicycle_rental
-            - bus_station
-            - cafe
-            - car_rental
-            - car_wash
-            - cinema
-            - clinic
-            - community_centre
-            - fire_station
-            - fountain
-            - fuel
-            - hospital
-            - ice_cream
-            - embassy
-            - library
-            - courthouse
-            - townhall
-            - parking
-            - bicycle_parking
-            - motorcycle_parking
-            - pharmacy
-            - doctors
-            - dentist
-            - place_of_worship
-            - police
-            - post_box
-            - post_office
-            - pub
-            - biergarten
-            - recycling
-            - restaurant
-            - food_court
-            - fast_food
-            - telephone
-            - emergency_phone
-            - taxi
-            - theatre
-            - toilets
-            - drinking_water
-            - prison
-            - hunting_stand
-            - nightclub
-            - veterinary
-            - social_facility
-            - charging_station   
+            - __any__  
             shop:
             - __any__
             leisure:
-            - water_park
-            - playground
-            - miniature_golf
-            - golf_course
-            - picnic_table
-            - slipway
-            - dog_park
-            - sauna
+            - __any__
             man_made:
-            - mast
-            - water_tower
-            - lighthouse
-            - windmill
-            - cross
-            - obelisk
+            - __any__
             natural:
-            - peak
-            - volcano
-            - saddle
-            - spring
-            - cave_entrance
+            - __any__
             historic:
-            - memorial
-            - monument
-            - archaeological_site
-            - wayside_cross
+            - __any__
             highway:
-            - bus_stop
-            - elevator
-            - traffic_signals
-            - ford
+            - __any__
             power:
-            - generator
+            - __any__
         polygons:
             aeroway:
             - helipad

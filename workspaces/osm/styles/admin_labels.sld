@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><sld:StyledLayerDescriptor xmlns="http://www.opengis.net/sld" xmlns:sld="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
+<?xml version="1.0" encoding="UTF-8"?><sld:StyledLayerDescriptor xmlns:sld="http://www.opengis.net/sld" xmlns="http://www.opengis.net/sld" xmlns:gml="http://www.opengis.net/gml" xmlns:ogc="http://www.opengis.net/ogc" version="1.0.0">
   <sld:NamedLayer>
-    <sld:Name>Default Styler</sld:Name>
+    <sld:Name>Default layer</sld:Name>
     <sld:UserStyle>
       <sld:Name>Default Styler</sld:Name>
       <sld:FeatureTypeStyle>
@@ -37,7 +37,7 @@
               <sld:CssParameter name="font-family">Noto Sans Chakma Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Cham Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Cherokee Regular</sld:CssParameter>
-              <sld:CssParameter name="font-family">Noto Sans CJK KR Regular</sld:CssParameter>
+              <sld:CssParameter name="font-family">Noto Sans CJK KR</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Coptic Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Devanagari UI Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Ethiopic Regular</sld:CssParameter>
@@ -171,7 +171,7 @@
               <sld:CssParameter name="font-family">Noto Sans Chakma Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Cham Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Cherokee Regular</sld:CssParameter>
-              <sld:CssParameter name="font-family">Noto Sans CJK KR Regular</sld:CssParameter>
+              <sld:CssParameter name="font-family">Noto Sans CJK KR</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Coptic Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Devanagari UI Regular</sld:CssParameter>
               <sld:CssParameter name="font-family">Noto Sans Ethiopic Regular</sld:CssParameter>
