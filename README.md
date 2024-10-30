@@ -1,5 +1,9 @@
 # OSM Bright styles
+
 ## Introduction
+
+[中文介绍](https://www.wuliang142857.me/map/geoserver.html)
+
 This is a GeoServer data directory with OSM layer and styles mimicking a OSM-bright style.
 
 ![Sample output map](map.png)
@@ -148,3 +152,7 @@ This data directory is licensed as MIT, as per the [license](https://github.com/
 ## More info
 You can find additional information in the [wiki](https://github.com/geosolutions-it/osm-styles/wiki).
 As an instance, you can find info on the the [GeoPackage branch](https://github.com/geosolutions-it/osm-styles/wiki/The-GeoPackage-branch) which contains a variant of the configuration where both the low and high resolution datasets are stored in GeoPackage files.
+
+## Change Log
+
+ - 2024/10/30 Add more icons; Fix the display of Korean characters;
